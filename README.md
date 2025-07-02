@@ -472,7 +472,7 @@ plt.ylabel('Deviance') # y-axis: predict
 
 ![image](https://github.com/user-attachments/assets/edcdb81c-fc9b-476e-9d51-5117fed94ccb)
 
-## Conclusion
+## 8) Conclusion
 
 After conducting a thorough analysis on the Brooklyn House dataset, we have a better understanding of the features that impact the sale price of a house. With the preprocessed and cleaned data, we trained a predictive model to estimate the sale price of a house in Brooklyn. This information can be valuable for real estate agents, investors and home buyers to make informed decisions.
 
