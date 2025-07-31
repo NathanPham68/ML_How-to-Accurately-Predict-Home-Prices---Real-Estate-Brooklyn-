@@ -1,4 +1,4 @@
-# Predictions on Brooklyn Housing Prices
+# [ML] How to Accurately Predict Home Prices? - Real Estate (Brooklyn)
 
 <img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/d718296c-56c6-432d-a9cd-c39c34bc781b" />
 
