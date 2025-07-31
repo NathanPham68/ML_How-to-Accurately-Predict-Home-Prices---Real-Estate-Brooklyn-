@@ -1,4 +1,7 @@
 # Predictions on Brooklyn Housing Prices
+
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/d718296c-56c6-432d-a9cd-c39c34bc781b" />
+
 ## 1) Introduction
 The New York City real estate market is rapidly heating up, making it increasingly difficult for homebuyers to assess the fair market value of properties. Brooklyn, in particular, has experienced a significant rise in housing prices in recent years due to growing demand. This trend has created an urgent need for a reliable method to estimate home values accurately.
 
